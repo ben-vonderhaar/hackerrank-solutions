@@ -2,7 +2,7 @@ package com.vdh.hackerrank;
 
 import java.util.*;
 
-public class JavaStdinAndStdout1 {
+public class H1_JavaStdinAndStdout1 {
     
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
